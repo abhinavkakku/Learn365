@@ -1,5 +1,3 @@
-# Day-1
-
 # Google Dorks / Search Engine Dorking
 
 Want to use google as a tool for Hacking ? or as an advanced search engine giving more accurate results ?
@@ -46,8 +44,10 @@ filetype:xls inurl:"email.xls”
 
 References :
 
+[Google Hacking : How To Use Google Dorks - ETHICAL HACKING](https://ethicalhackx.com/google-hacking/)
+
 [DorkSearch - Speed up your Dorking](https://dorksearch.com/)
 
-[Google Dorking Examples](https://securitytrails.com/blog/google-hacking-techniques)
-
 [Offensive Security's Exploit Database Archive](https://www.exploit-db.com/google-hacking-database)
+
+[Google Dorks Examples](https://securitytrails.com/blog/google-hacking-techniques)
