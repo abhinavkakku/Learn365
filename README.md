@@ -1,2 +1,5 @@
 # Learn365
-learn365 InfoSec
+
+| Day   | Topic                         |
+| ----- | ----------------------------- |
+| **1** | [Google Dorks](/days/day1.md) |
