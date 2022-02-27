@@ -4,7 +4,7 @@
 
 ---
 
-| Day   | Topic                         |
-| ----- | ----------------------------- |
-| **1** | [Google Dorks](/days/day1.md) |
-| **2** | [Google Dorks](/days/day2.md) |
+| Day   | Topic                                                                                                          |
+| ----- | -------------------------------------------------------------------------------------------------------------- |
+| **1** | <ul><li>[Google Dorks](/days/day1.md) </li></ul>                                                               |
+| **2** | <ul><li> [Javascript (CodewithHarry)](/days/day2.md) </li><li> [HTML Forms and CSS ](/days/day2.md) </li></ul> |
